@@ -16,7 +16,7 @@ Remember you need to install [Node.js](https://nodejs.org/en/)(recommended versi
 npm i
 ```
 
-2. Create .dotenv file and save these variables in
+2. Create .env file and save these variables in
 ```dotenv
 TOKEN=yourtokenhere
 PREFIX=yourprefixhere
